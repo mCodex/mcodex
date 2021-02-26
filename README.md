@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hello, I'm Mateus 👋
 
-<!--
-**mCodex/mcodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Generalist Javascript developer with passion for back-end and software architecture.
 
-Here are some ideas to get you started:
+Working with React/React-Native/NodeJS for the last 5 years.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## CHANGELOG 🌱
+
+### 2021
+
+I decided to learn more about Full Cycle development. So, I'm diving into software development architecture concepts, monolitic and microservices development, Docker, Kubernetes, Kafka and more...  
+
+Plus, I stumbled upon Go and Elixir for back-end development and it has been an amazing experience.
+
+### 2020
+
+* Studied React/React-Native/NodeJS more deeply, 
+* Improved my CSS skills
+* Learned more about DDD, Clean Code, TDD
+* Met NestJS and created a few APIs
+* more...
+
+---
+
+![mcodex's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcodex&count_private=true&theme=dark&show_icons=true)
