@@ -2,7 +2,7 @@
 
 ## Generalist Javascript developer with passion for back-end and software architecture.
 
-Working with React/React-Native/NodeJS for the last 5 years.
+Working with React/React-Native/NodeJS since 2015.
 
 ---
 
